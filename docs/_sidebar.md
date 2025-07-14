@@ -6,5 +6,5 @@
 - [Rozdział 5](chapters/5.md?id=rozdział-v)
 - [Rozdział 6](chapters/6.md?id=rozdział-vi)
 - **Linki**
-- [Instalacja](https://sefaris.eu/psi-mod/installation)
+- [Instalacja](https://www.sefaris.eu/bractwo-droga-sniacego/installation)
 - [Sefaris](https://sefaris.eu)
