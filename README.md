@@ -35,3 +35,4 @@ Jeżeli chcesz wspomóc/poprawić treść w solucji lub w innych elementach wyst
 - [Yami](https://github.com/Yamixowy)
 - [Kamil.PL](https://github.com/Kamil1337zxc)
 - [Baniu34](https://github.com/Baniu34)
+- [Deetom554](https://github.com/Deetom554)
