@@ -1,34 +1,21 @@
-# Gothic II: Bractwo - Droga Śniącego
+# Gothic II: Bractwo — Droga Śniącego
 
-Ten projekt zawiera solucję do modyfikacji Bractwo - Droga Śniącego od [Team Sefaris](https://sefaris.eu). Solucję można znaleźć także pod adresem [https://psimod.mody.sefaris.eu](https://psimod.mody.sefaris.eu)
+Solucja od [Team Sefaris](https://sefaris.eu), dostępna na [psimod.mody.sefaris.eu](https://psimod.mody.sefaris.eu). Strona korzysta z Docusaurusa.
 
-## Instalacja oraz wymagania
+## Uruchamianie
 
-Aby dokonywać zmian lokalnie należy zainstalować:
+Wymagane Node.js 24 i pnpm 11.19.0.
 
-- [Node.js](https://nodejs.org/)
-
-Po zainstalowaniu należy wykonać komendę:
-
-```
-$ npm i docsify-cli -g
+```sh
+pnpm install --frozen-lockfile
+pnpm start
 ```
 
-W odpowiednim katalogu należy wpisać następującą komendę:
+Podgląd: `http://localhost:3000`. Kontrola przed wysłaniem zmian: `pnpm check`.
 
-```
-$ docsify serve docs
-```
+## Edycja
 
-Domyślnie projekt uruchamia się pod adresem: `http://localhost:3000`.
-
-## Użyte biblioteki
-
-- https://docsify.js.org
-
-## Dokonywanie zmian
-
-Jeżeli chcesz wspomóc/poprawić treść w solucji lub w innych elementach występujących w tym repozytorium, utwórz forka, dokonaj zmian, a następnie utwórz Pull Requesta. Nie zapomnij dopisać się w sekcji [Autorzy](#Autorzy)!
+Rozdziały znajdują się w `docs/chapters/`, a strona główna w `docs/README.mdx`. Zwykłe opisy są w plikach `.md`; rozdziały 2 i 4 używają `.mdx` ze względu na zakładki wyborów. Ilustracje są w `docs/chapters/images/`, a menu w `sidebars.js`. Zachowuj identyfikatory nagłówków `{#nazwa-zadania}`. Poprawki zgłaszaj przez Pull Request.
 
 ## Autorzy
 

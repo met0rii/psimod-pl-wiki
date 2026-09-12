@@ -1,3 +1,0 @@
-# Instalacja
-
-> Tutaj proces instalacji
